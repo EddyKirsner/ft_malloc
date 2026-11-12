@@ -1,7 +1,7 @@
 NAME := libft.a
 
 CC := cc
-CFLAGS := -Wall -Wextra -Werror
+CFLAGS := -Wall -Wextra -Werror -fPIC
 
 SRCS := ft_atoi.c \
         ft_bzero.c \
